@@ -1,17 +1,26 @@
 # Basic Smart Contract Project following OpenZeppelin Guides
 
-This project demonstrates a basic Smart Contract which can be upgraded while following OpenZeppelin guides in https://docs.openzeppelin.com/learn/. They cover the following topics:
+This project demonstrates a basic Smart Contract which can be upgraded while following OpenZeppelin guides in [OpenZeppelin](https://docs.openzeppelin.com/learn/).
 
-Setting up a Node project
+They cover the following topics:
 
-Developing smart contracts
+1. Setting up a Node project
+2. Developing smart contracts
+3. Deploying and interacting with smart contracts
+4. Writing automated smart contract tests
+5. Connecting to public test networks
+6. Upgrading smart contracts
+7. Preparing for mainnet
 
-Deploying and interacting with smart contracts
+## Install
 
-Writing automated smart contract tests
+First of all, you must have installed [NodeJS](https://nodejs.org/en/). Then:
 
-Connecting to public test networks
+1. Download this repository.
+2. In the root directory, execute the `npm install` command in order to install the required dependencies.
 
-Upgrading smart contracts
+## Use
 
-Preparing for mainnet
+Once dependencies are installed, you can execute the test file with the command:
+
+> $ npx hardhat test test/Box.test.js
