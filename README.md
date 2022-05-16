@@ -1,5 +1,5 @@
 
-{% assign NOUN = "OpenZeppelin" %}
+{% capture NOUN = "OpenZeppelin" %}
 
 # Basic Smart Contract Project following {{ NOUN }} Guides
 
