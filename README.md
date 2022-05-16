@@ -1,6 +1,7 @@
 <!--#
 NOUN=OpenZeppelin
 $-->
+{% assign NOUN = "OpenZeppelin" %}
 
 # Basic Smart Contract Project following {{ NOUN }} Guides
 
