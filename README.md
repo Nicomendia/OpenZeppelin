@@ -1,6 +1,10 @@
-# Basic Smart Contract Project following OpenZeppelin Guides
+<!--#
+NOUN=OpenZeppelin
+$-->
 
-This project demonstrates a basic Smart Contract which can be upgraded while following OpenZeppelin guides in [OpenZeppelin](https://docs.openzeppelin.com/learn/).
+# Basic Smart Contract Project following {{ NOUN }} Guides
+
+This project demonstrates a basic Smart Contract which can be upgraded while following OpenZeppelin guides in [{{ NOUN }}](https://docs.openzeppelin.com/learn/).
 
 They cover the following topics:
 
@@ -11,6 +15,12 @@ They cover the following topics:
 5. Connecting to public test networks
 6. Upgrading smart contracts
 7. Preparing for mainnet
+
+```
+Url
+
+https://docs.{{ NOUN }}.com/learn/
+```
 
 ## Install
 
